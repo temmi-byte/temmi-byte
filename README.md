@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Temmie 👋
 
 💻 **Web Developer** | 📸 **Mobile Photographer** | 🎥 **Cinematographer**  
 ✨ Passionate about building digital experiences and capturing moments.  
@@ -8,7 +8,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
 
 ### 📸 Creative Work  
-Check out my photography & videography:  
+Check out my works:  
 🔗 [Portfolio](https://temmie-portfolio.netlify.app)  
 
 ### 🌐 Let's Connect  
